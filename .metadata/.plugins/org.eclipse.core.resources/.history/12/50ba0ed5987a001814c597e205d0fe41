@@ -1,0 +1,5 @@
+web.upload-path=D:/temp/study13/
+
+spring.mvc.static-path-pattern=/erago/**
+spring.resources.static-locations=classpath:/META-INF/resources/,classpath:/resources/,\
+  classpath:/static/,classpath:/public/,file:${web.upload-path}

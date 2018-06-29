@@ -1,0 +1,7 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«Œåùÿÿÿÿ8¾ÃéÒÄ,HÓRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(¥¸–­ûÿÿÿÿ8¾ÃéÒÄ,HÔRMAJORZ
+CODE_SMELL
+›squid:S1488,"bImmediately return this expression instead of assigning it to the temporary variable "dataSource".(¯öªØýÿÿÿÿ8¾ÃéÒÄ,HÕRMINORZ
+CODE_SMELL

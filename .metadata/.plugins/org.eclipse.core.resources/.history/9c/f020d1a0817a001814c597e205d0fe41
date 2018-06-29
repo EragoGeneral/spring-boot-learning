@@ -1,0 +1,5 @@
+package com.ruiyang.interceptor;
+
+public class RequestInterceptor {
+
+}

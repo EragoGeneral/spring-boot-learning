@@ -1,0 +1,29 @@
+package com.ruiyang.service.impl;
+
+import java.io.Serializable;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Service;
+
+import com.ruiyang.dao.IUserDao;
+import com.ruiyang.dao.StuMapper;
+import com.ruiyang.domain.User;
+import com.ruiyang.service.IUserService;
+
+@Service
+public class UserServiceImpl implements IUserService, Serializable {
+
+	private static final long serialVersionUID = -492993133703568489L;
+
+	@Autowired
+	@Qualifier("userDao")
+	private IUserDao userDao;
+	
+	@Override
+	public User getUserById(int id) {
+		
+		return userDao.getUserById(id);
+	}
+
+}

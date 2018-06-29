@@ -1,0 +1,7 @@
+
+msquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÓÒ†°øÿÿÿÿ8¦ î’À,HÔRMAJORZ
+CODE_SMELL
+˜squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹—ÁÉþÿÿÿÿ8á›ê’À,HÐRMAJORZ
+CODE_SMELL
+“squid:S1149&"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ñ’ìø8¿¼ˆ“À,HäRMAJORZ
+CODE_SMELL

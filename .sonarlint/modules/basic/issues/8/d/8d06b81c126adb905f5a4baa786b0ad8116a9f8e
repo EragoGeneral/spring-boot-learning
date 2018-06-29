@@ -1,0 +1,11 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ь▀ИЁ8о█ё╢а,HтRMAJORZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(─ит┘ЩЪЪЪЪ8о█ё╢а,HжRMINORZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(╛╜ц╠ЪЪЪЪЪ8╤Ы║╢а,HяRMAJORZ
+CODE_SMELL
+ssquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(Д═╧─8о█ё╢а,HуRMAJORZBUG
+bsquid:S2140")Use "java.util.Random.nextInt()" instead.(я┤╤╬ШЪЪЪЪ8▐сё╢а,HвRMINORZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+package com.ruiyang.domain;
+
+public class User {
+
+}

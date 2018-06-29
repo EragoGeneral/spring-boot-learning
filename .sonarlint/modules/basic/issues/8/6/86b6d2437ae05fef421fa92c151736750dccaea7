@@ -1,0 +1,7 @@
+
+“squid:S11494"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ñ’ìø8¨Õ“À,HïRMAJORZ
+CODE_SMELL
+˜squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹—ÁÉşÿÿÿÿ8¥”“À,HíRMAJORZ
+CODE_SMELL
+msquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÓÒ†°øÿÿÿÿ8ûï•“À,HñRMAJORZ
+CODE_SMELL

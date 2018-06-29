@@ -1,0 +1,11 @@
+
+ysquid:S00112j"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿHRMAJORZ
+CODE_SMELL
+ysquid:S00112O"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+gsquid:S1191"5Use classes from the Java API instead of Sun classes.(Ó¨ÔÿÿÿÿÿHˆRMAJORZ
+CODE_SMELL
+squid:S3008#"RRename this field "KEY_STR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‰øÙH‰RMINORZ
+CODE_SMELL
+ysquid:S001125"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿH‹RMAJORZ
+CODE_SMELL

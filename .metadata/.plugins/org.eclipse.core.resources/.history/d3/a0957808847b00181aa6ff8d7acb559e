@@ -1,0 +1,19 @@
+package com.ruiyang.task;
+
+import java.util.Random;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Task {
+
+	public static Random random = new Random();
+	
+	public void taksOne() throws Exception{
+		System.out.println();
+		long start=System.currentTimeMillis();
+		Thread.sleep(random.nextLong(1000));
+		long end=System.currentTimeMillis();
+		System.out.println();
+	}
+}

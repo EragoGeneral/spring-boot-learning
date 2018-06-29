@@ -1,0 +1,5 @@
+package com.ruiyang.service.impl;
+
+public class UserServiceImpl {
+
+}

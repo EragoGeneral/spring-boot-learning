@@ -1,0 +1,18 @@
+package com.ruiyang.schedule;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Jobs {
+	
+	public void fixedDelayJob(){
+		System.out.println(new SimpleDateFormat("yyyyMMddHHmmss").format(new Date())+" >>fixedDelay执行....");
+	}
+	
+	public void fixedRateJob(){
+		System.out.println(System.out.println(new SimpleDateFormat("yyyyMMddHHmmss").format(new Date())+" >>fixedRate执行....");
+	}
+}

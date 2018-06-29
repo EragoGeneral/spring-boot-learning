@@ -1,0 +1,10 @@
+package com.ruiyang.dao;
+
+import org.apache.ibatis.annotations.Mapper;
+
+import com.ruiyang.domain.User;
+
+public interface IUserDao {
+	
+	public User getUserById(int id);
+}

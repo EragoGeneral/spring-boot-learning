@@ -1,0 +1,17 @@
+package com.ruiyang.service.impl;
+
+import java.io.Serializable;
+
+import com.ruiyang.domain.User;
+import com.ruiyang.service.IUserService;
+
+public class UserServiceImpl implements IUserService, Serializable {
+
+	
+	
+	@Override
+	public User getUserById(int id) {
+		
+		return null;
+	}
+}

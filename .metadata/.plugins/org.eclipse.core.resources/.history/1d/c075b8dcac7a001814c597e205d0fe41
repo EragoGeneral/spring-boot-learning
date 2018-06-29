@@ -1,0 +1,9 @@
+package com.ruiyang.dao;
+
+import com.ruiyang.domain.User;
+
+//@Mapper
+public interface StuMapper {
+
+	public User selectById(int id);
+}

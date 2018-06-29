@@ -1,0 +1,5 @@
+package com.ruiyang.dao;
+
+public interface IUserDao {
+
+}
