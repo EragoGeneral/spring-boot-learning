@@ -9,3 +9,7 @@ V
 &src/main/resources/templates/test.html,a\f\af08272648d5b0e7002c106ee2175d994fc6bdea
 d
 4src/main/java/com/god/controller/UserController.java,3\1\312842ba25342a9f5e7757e56abc7e1a2509f2b2
+b
+2src/main/resources/templates/fragments/footer.html,9\5\95e4548e9e041d1d81e1ecc87bc48d82fd88e4bd
+b
+2src/main/resources/templates/fragments/header.html,9\6\9612bf54f885c2ec41cfb058cba37882fcb62733

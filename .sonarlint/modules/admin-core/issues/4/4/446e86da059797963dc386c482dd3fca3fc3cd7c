@@ -1,0 +1,11 @@
+
+Üsquid:S2637&"a"id" is marked "javax.validation.constraints.NotNull" but is not initialized in this constructor.(Û«óHªRMINORZBUG
+∞squid:S1186&"ÄAdd a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Û«óHºRCRITICALZ
+CODE_SMELL
+Åsquid:UselessImportCheck"BRemove this unused import 'javax.validation.constraints.NotBlank'.(µ„èá˝ˇˇˇˇHΩRMINORZ
+CODE_SMELL
+rsquid:UselessImportCheck
+"8Remove this unused import 'org.beetl.sql.core.TailBean'.(¥œÈ˜HæRMINORZ
+CODE_SMELL
+xsquid:UselessImportCheck">Remove this unused import 'javax.validation.constraints.Null'.(„ç•òHøRMINORZ
+CODE_SMELL

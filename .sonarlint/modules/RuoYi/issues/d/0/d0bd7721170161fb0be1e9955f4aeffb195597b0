@@ -1,0 +1,23 @@
+
+…squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Íà¤YHÿRMINORZ
+CODE_SMELL
+…squid:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈâüH€RMINORZ
+CODE_SMELL
+…squid:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(Íà¤YHRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(ƒ§çØH‚RMAJORZ
+CODE_SMELL
+Tsquid:S1905"'Remove this unnecessary cast to "Menu".(íğòûHƒRMINORZ
+CODE_SMELL
+Tsquid:S1905;"'Remove this unnecessary cast to "Menu".(èŸÕÂH„RMINORZ
+CODE_SMELL
+Tsquid:S1905L"'Remove this unnecessary cast to "Menu".(èŸÕÂH…RMINORZ
+CODE_SMELL
+Ysquid:S1905f"'Remove this unnecessary cast to "Menu".(¿ş·üøÿÿÿÿH†RMINORZ
+CODE_SMELL
+Tsquid:S1905"'Remove this unnecessary cast to "Menu".(èŸÕÂH‡RMINORZ
+CODE_SMELL
+Xsquid:S1168b"+Return an empty collection instead of null.(¥¹ïHˆRMAJORZ
+CODE_SMELL
+qsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(„ğ‹“øÿÿÿÿH‰RMINORZ
+CODE_SMELL

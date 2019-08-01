@@ -1,0 +1,30 @@
+
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ÿÖôÆ,HãRMINORZVULNERABILITY
+ksquid:S1444"/Make this "public static isThreadC" field final(ãĞ úÿÿÿÿ8ÌÈôÆ,HëRMINORZVULNERABILITY
+_squid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜šÒôÆ,HáRMINORZVULNERABILITY
+\squid:S1604"(Make this anonymous inner class a lambda(ÉãÃ®8ÌÈôÆ,HçRMAJORZ
+CODE_SMELL
+l
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ñª•ó8 ÿÖôÆ,HäRMAJORZ
+CODE_SMELL
+‰squid:S3776	"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Çµí‘8 ÿÖôÆ,HíRCRITICALZ
+CODE_SMELL
+\squid:S1604#"(Make this anonymous inner class a lambda(ÉãÃ®8 ÿÖôÆ,HßRMAJORZ
+CODE_SMELL
+rsquid:S2276B"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8ÀˆàôÆ,HñRBLOCKERZBUG
+£"squid:ClassVariableVisibilityCheck"UMake isThreadA a static final constant or non-public and provide accessors if needed.(°ŸÌ8ÌÈôÆ,HìRMINORZVULNERABILITY
+rsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8¹ÅßôÆ,HïRBLOCKERZBUG
+¨"squid:ClassVariableVisibilityCheck"UMake isThreadB a static final constant or non-public and provide accessors if needed.(şá­§øÿÿÿÿ8ÌÈôÆ,HŞRMINORZVULNERABILITY
+\squid:S1604:"(Make this anonymous inner class a lambda(ÉãÃ®8 ÿÖôÆ,HàRMAJORZ
+CODE_SMELL
+fsquid:S1444"/Make this "public static isThreadA" field final(°ŸÌ8ÌÈôÆ,HâRMINORZVULNERABILITY
+_squid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8 ÿÖôÆ,HåRMINORZVULNERABILITY
+rsquid:S2276+"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8ÀˆàôÆ,HğRBLOCKERZBUG
+ksquid:S1444"/Make this "public static isThreadB" field final(şá­§øÿÿÿÿ8ÌÈôÆ,HéRMINORZVULNERABILITY
+q
+squid:S106G"9Replace this use of System.out or System.err by a logger.(´œàÚÿÿÿÿÿ8˜šÒôÆ,HæRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(…‘ÉÑıÿÿÿÿ8 ÿÖôÆ,HèRMAJORZ
+CODE_SMELL
+¨"squid:ClassVariableVisibilityCheck"UMake isThreadC a static final constant or non-public and provide accessors if needed.(ãĞ úÿÿÿÿ8ÌÈôÆ,HêRMINORZVULNERABILITY

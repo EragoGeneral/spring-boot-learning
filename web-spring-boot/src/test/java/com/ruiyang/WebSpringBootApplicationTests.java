@@ -31,6 +31,12 @@ public class WebSpringBootApplicationTests {
  
 		while(true) {
 			if(task1.isDone() && task2.isDone() && task3.isDone()) {
+				String result1 = task1.get();
+				String result2 = task2.get();
+				String result3 = task3.get();
+				System.out.println("Result1: " + result1);
+				System.out.println("Result2: " + result2);
+				System.out.println("Result3: " + result3);
 				// 三个任务都调用完成，退出循环等待
 				break;
 			}

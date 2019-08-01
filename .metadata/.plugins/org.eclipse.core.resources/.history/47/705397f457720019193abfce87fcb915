@@ -1,0 +1,31 @@
+package com.erago.demo;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.kafka.annotation.EnableKafka;
+import org.springframework.test.context.junit4.SpringRunner;
+
+import com.erago.demo.kafka.KafkaProducer;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+@EnableKafka
+public class KafkaProjectApplicationTests {
+
+	
+	@Autowired
+	private KafkaProducer producer;
+	
+	public void contextLoads() {
+	}
+	
+	@Test
+	public void testGenerate(){
+		System.out.println(producer);
+		producer.send("topic3", "test topic5");
+		System.out.println("waiting...");
+	}
+
+}

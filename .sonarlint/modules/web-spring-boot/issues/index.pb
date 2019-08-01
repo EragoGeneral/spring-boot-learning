@@ -33,10 +33,6 @@ g
 7src/main/java/com/ruiyang/controller/StuController.java,5\8\58d4cf9cae5ace2544c11b7e38b8584c44ef8a67
 ]
 -src/main/java/com/ruiyang/domain/NewUser.java,a\9\a90edec9671ef107136d4fc9500c15589f898d3a
-]
--src/main/java/com/ruiyang/dao/UserMapper.java,4\5\45e4abfd88176a4fb2203ac1d3709a754acbe538
-\
-,src/main/resources/mapper/UserMapper.out.xml,e\e\ee8d0b13a347af477c18af97fe3251bd91e8f462
 ^
 .src/main/java/com/ruiyang/dao/INewUserDao.java,d\1\d1014595bcf2d5ac297a5b78ea07231fbfe66176
 _
@@ -49,3 +45,7 @@ X
 (src/main/java/com/ruiyang/task/Task.java,f\9\f9869af8f23bdaf312acffe0c53a294f17ea1a10
 l
 <src/test/java/com/ruiyang/WebSpringBootApplicationTests.java,1\f\1f104b9cf9c78516066711046294ff32cb30dc27
+i
+9src/main/java/com/ruiyang/controller/RedisController.java,e\2\e258bb5cb56db7580c2b64ba9206d9a6ad980d99
+[
++src/main/java/com/ruiyang/dao/RedisDao.java,9\a\9acebe6ba94bcad1f5d66f0451d5d1eac20fe6ed

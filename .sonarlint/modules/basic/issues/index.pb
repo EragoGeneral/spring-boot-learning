@@ -117,3 +117,9 @@ Z
 *src/designpattern/strategy/log/Client.java,6\a\6ab8ad0fb4b70563a80234b1fca99217d54daf15
 Y
 )src/designpattern/strategy/log/DbLog.java,4\3\43cd8d2023bf5e9630774926bd9048339a02a1e4
+J
+src/thread/ThreadTest.java,3\f\3f3558a66fc2d7b738c738be93d82a4ebe0e081f
+H
+src/thread/PrintABC.java,5\7\5768a18191e660aac11dd9893881adc7940ac02e
+D
+src/lottery/Dlt.java,2\8\283d1a061bc9745e0fa2f53daa0bdc29170fa6bf

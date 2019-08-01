@@ -1,0 +1,9 @@
+
+rsquid:S1858‡"?"toHex" returns a string, there's no need to call "toString()".(¤õµ“øÿÿÿÿHÈRMINORZ
+CODE_SMELL
+gsquid:S1118":Add a private constructor to hide the implicit public one.(ÚœìÙHÆRMAJORZ
+CODE_SMELL
+bsquid:S1172r"0Remove this unused method parameter "uploadDir".(–õ®ßýÿÿÿÿHÇRMAJORZ
+CODE_SMELL
+q
+squid:S899|"BDo something with the "boolean" value returned by "createNewFile".(À­¬ÀHÉRMINORZVULNERABILITY

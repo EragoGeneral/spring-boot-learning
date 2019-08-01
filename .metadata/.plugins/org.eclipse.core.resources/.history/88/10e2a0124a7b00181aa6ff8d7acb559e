@@ -1,8 +1,0 @@
-package com.ruiyang.dao;
-
-import com.ruiyang.domain.NewUser;
-
-public interface INewUserDao {
-	
-	public NewUser queryEncryptedUser();
-}

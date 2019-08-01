@@ -1,0 +1,84 @@
+package lottery;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Random;
+import java.util.Set;
+
+public class Dlt {
+
+	private static Integer MIN_NUM = 1;
+	
+	private static Integer MAX_RED = 35;
+	
+	private static Integer MAX_BLUE = 12;
+	
+	private static Set generateReds(Integer maxNum, Integer loopNum){
+		Set<Integer> hitSet = new HashSet<>();
+		List<Integer> reds = new ArrayList<>();
+		for(int i = 1; i < maxNum + 1; i ++){
+			reds.add(i);
+		}
+		
+		int hitNum = 0;
+		while(hitNum < loopNum){
+			Random r = new Random();
+			int curRed = r.nextInt((maxNum-hitNum) - MIN_NUM + 1) + MIN_NUM;
+//			System.out.println("curRed: " + reds.get(curRed-1));	
+			hitSet.add(reds.get(curRed-1));
+			//重排列表reds数组，将命中数后的元素往前移动 
+			for(int j = curRed; j < reds.size(); j++){
+				reds.set(j-1, reds.get(j));
+			}
+			//移除最后一个元素
+			reds.remove(reds.size()-1);
+			
+			hitNum++;
+		}
+		
+		return hitSet;
+	}
+	
+	
+	public static void main(String[] args) {
+		// 1 - 35
+//		List<Integer> reds = new ArrayList<>();
+//		for(int i = 1; i < MAX_RED + 1; i ++){
+//			reds.add(i);
+//		}
+//		
+//		int hitNum = 0;
+		Set<Integer> hitRed = generateReds(MAX_RED, 5);
+		System.out.print("Red: ");
+		for(Integer red : hitRed){
+			System.out.print(red + ",");
+		}
+		
+		Set<Integer> hitBlue = generateReds(MAX_BLUE, 2);
+		System.out.print("\nBlue: ");
+		for(Integer blue : hitBlue){
+			System.out.print(blue + ",");
+		}
+//		while(hitNum < 5){
+//			Random r = new Random();
+//			int curRed = r.nextInt((MAX_RED-hitNum) - MIN_NUM + 1) + MIN_NUM;
+//			System.out.println("curRed: " + reds.get(curRed-1));	
+//			hitRed.add(reds.get(curRed-1));
+//			//重排列表reds数组，将命中数后的元素往前移动 
+//			for(int j = curRed; j < reds.size(); j++){
+//				reds.set(j-1, reds.get(j));
+//			}
+//			//移除最后一个元素
+//			reds.remove(reds.size()-1);
+//			
+//			hitNum++;
+//		}
+		// 1 - 12
+		List<Integer> blues = new ArrayList<Integer>();
+		for(int i = 1; i < 13; i ++){
+			blues.add(i);
+		}
+		
+	}
+}

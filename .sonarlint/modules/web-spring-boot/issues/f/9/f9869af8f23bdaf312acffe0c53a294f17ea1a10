@@ -1,27 +1,27 @@
 
 q
-squid:S106("9Replace this use of System.out or System.err by a logger.(ÖØ¬çşÿÿÿÿ8–ü‡ØÄ,HRMAJORZ
+squid:S106,"9Replace this use of System.out or System.err by a logger.(½íØ–ıÿÿÿÿ8–ü‡ØÄ,HòRMAJORZ
+CODE_SMELL
+¥"squid:ClassVariableVisibilityCheck"RMake random a static final constant or non-public and provide accessors if needed.(×‘éµùÿÿÿÿ8¶­†ØÄ,HóRMINORZVULNERABILITY
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò¤æN8¶­†ØÄ,HôRMAJORZ
+CODE_SMELL
+hsquid:S1444",Make this "public static random" field final(×‘éµùÿÿÿÿ8¶­†ØÄ,HõRMINORZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÃøøÿÿÿÿ8–ü‡ØÄ,HöRMAJORZ
+CODE_SMELL
+{squid:S00112'"FDefine and throw a dedicated exception instead of using a generic one.(èº„ù8¶­†ØÄ,H÷RMAJORZ
 CODE_SMELL
 k
-squid:S106!"9Replace this use of System.out or System.err by a logger.(ŒÏ¢y8–ü‡ØÄ,HRMAJORZ
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ŒÏ¢y8–ü‡ØÄ,HøRMAJORZ
 CODE_SMELL
-{squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÊŠåà8–ü‡ØÄ,H’RMAJORZ
+q
+squid:S106("9Replace this use of System.out or System.err by a logger.(ÖØ¬çşÿÿÿÿ8–ü‡ØÄ,HùRMAJORZ
 CODE_SMELL
-hsquid:S1444",Make this "public static random" field final(×‘éµùÿÿÿÿ8¶­†ØÄ,HşRMINORZVULNERABILITY
+€squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Œ¬ÿ³ÿÿÿÿÿ8–ü‡ØÄ,HúRMAJORZ
+CODE_SMELL
+{squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÊŠåà8–ü‡ØÄ,HûRMAJORZ
+CODE_SMELL
 l
-squid:S106"9Replace this use of System.out or System.err by a logger.(Õ€Ìé8¶­†ØÄ,HŠRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ€Ìé8¶­†ØÄ,HüRMAJORZ
 CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(íÃøøÿÿÿÿ8–ü‡ØÄ,HRMAJORZ
-CODE_SMELL
-q
-squid:S106,"9Replace this use of System.out or System.err by a logger.(½íØ–ıÿÿÿÿ8–ü‡ØÄ,HRMAJORZ
-CODE_SMELL
-€squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Œ¬ÿ³ÿÿÿÿÿ8–ü‡ØÄ,H‘RMAJORZ
-CODE_SMELL
-k
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ò¤æN8¶­†ØÄ,HŒRMAJORZ
-CODE_SMELL
-{squid:S00112'"FDefine and throw a dedicated exception instead of using a generic one.(èº„ù8¶­†ØÄ,H‹RMAJORZ
-CODE_SMELL
-¥"squid:ClassVariableVisibilityCheck"RMake random a static final constant or non-public and provide accessors if needed.(×‘éµùÿÿÿÿ8¶­†ØÄ,HRMINORZVULNERABILITY

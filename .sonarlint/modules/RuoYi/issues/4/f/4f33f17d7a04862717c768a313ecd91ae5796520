@@ -1,0 +1,6 @@
+
+ "squid:ClassVariableVisibilityCheck"TMake excludes a static final constant or non-public and provide accessors if needed.(ß™„şÿÿÿÿH‘RMINORZVULNERABILITY
+[squid:S1172="/Remove this unused method parameter "response".(Õ¢ÃoH’RMAJORZ
+CODE_SMELL
+¶squid:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©ÇÿšÿÿÿÿÿH“RCRITICALZ
+CODE_SMELL

@@ -1,0 +1,34 @@
+package com.erago.demo;
+
+import java.util.List;
+
+import org.assertj.core.util.Arrays;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.kafka.annotation.EnableKafka;
+import org.springframework.test.context.junit4.SpringRunner;
+
+import com.erago.demo.kafka.KafkaProducer;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+@EnableKafka
+public class KafkaProjectApplicationTests {
+
+	
+	@Autowired
+	private KafkaProducer producer;
+	
+	public void contextLoads() {
+	}
+	
+	@Test
+	public void testGenerate(){
+		List<String> msg = Arrays.asList({"m1", m2});
+		producer.send("topic3", "topic3");
+		System.out.println("waiting...");
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.erago.demo.kafka;
+
+public class KafkaConfiguration {
+
+}

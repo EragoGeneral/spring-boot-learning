@@ -1,5 +1,0 @@
-package com.ruiyang.dao;
-
-public interface StuMapper {
-
-}

@@ -1,0 +1,7 @@
+
+}squid:S1192"HDefine a constant instead of duplicating this literal "unknown" 6 times.(ğÁÂìıÿÿÿÿHŠRCRITICALZ
+CODE_SMELL
+csquid:S1313)".Make this IP "127.0.0.1" address configurable.(•ƒÔÁÿÿÿÿÿH‹RMINORZVULNERABILITY
+lsquid:S1118
+":Add a private constructor to hide the implicit public one.(¿ŞèåúÿÿÿÿHŒRMAJORZ
+CODE_SMELL

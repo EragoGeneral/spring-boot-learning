@@ -140,11 +140,19 @@
 	</list>
 	<section name="ExternalProjectImportWizard">
 	</section>
+	<section name="ResourceNavigator">
+		<item value="" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
+		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
+	</section>
 	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="496" key="DIALOG_X_ORIGIN"/>
+		<item value="226" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
 		<item value="true" key="ShowStatusLine"/>
-		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/renren-fast/src/main/java/io/renren/common/validator/group/QiniuGroup.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/renren-fast/src/main/java/io/renren/common/validator/group/QiniuGroup.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/renren-fast/src/main/java/io/renren/common/annotation/SysLog.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/RuoYi/src/main/resources/mybatis/system/DeptMapper.xml&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/RuoYi/src/main/java/com/ruoyi/project/system/user/controller/LoginController.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/RuoYi/src/main/resources/templates/login.html&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/RuoYi/src/main/resources/static/ruoyi/login.js&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/RuoYi/src/main/java/com/ruoyi/project/system/user/controller/IndexController.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/RuoYi/src/main/java/com/ruoyi/project/system/notice/controller/NoticeController.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/demo2/src/main/resources/templates/fragments/footer.html&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/RuoYi/src/main/java/com/ruoyi/framework/web/service/DictService.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/qiyu/qiyu-admin-web/src/main/resources/sql/qyadmin.sql&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/RuoYi/src/main/java/com/ruoyi/project/monitor/druid/DruidController.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/qiyu/qiyu-admin-web/src/main/resources/templates/system/dep/dep_update.html&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/RuoYi/src/main/java/com/ruoyi/project/system/dept/controller/DeptController.java&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/RuoYi/src/main/resources/templates/system/post/post.html&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/qiyu/qiyu-admin-web/src/main/resources/templates/system/user/user_list.html&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/demo2/src/main/resources/templates/fragments/header.html&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;infoNode path=&quot;/qiyu/qiyu-admin-web/src/main/resources/static/assets/system/function/function.js&quot; type=&quot;1&quot;/&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
 		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
 		<item value="false" key="ShowDerived"/>
 		<section name="DialogBoundsSettings">

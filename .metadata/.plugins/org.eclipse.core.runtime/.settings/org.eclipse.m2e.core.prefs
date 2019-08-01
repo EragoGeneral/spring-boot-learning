@@ -1,2 +1,7 @@
+eclipse.m2.WorkspacelifecycleMappingsLocation=G\:/Lin/work/workspace/spring-boot/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+eclipse.m2.defaultRuntime=maven309
+eclipse.m2.runtimes=maven309
+eclipse.m2.runtimesNodes/maven309/location=G\:\\Lin\\software\\dev\\maven309
+eclipse.m2.runtimesNodes/maven309/type=EXTERNAL
 eclipse.m2.userSettingsFile=G\:\\Lin\\software\\dev\\maven309\\conf\\settings.xml
 eclipse.preferences.version=1

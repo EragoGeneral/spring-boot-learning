@@ -1,0 +1,19 @@
+
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.(Å…Â¤üÿÿÿÿ8î¼Ÿ¼©-Há1RMAJORZ
+CODE_SMELL
+…squid:S3008"RRename this field "MIN_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–å¿y8†áúº©-H½0RMINORZ
+CODE_SMELL
+Œsquid:S3008"SRename this field "MAX_BLUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Û‡Àÿÿÿÿÿ8†áúº©-H¿0RMINORZ
+CODE_SMELL
+k
+squid:S106,"9Replace this use of System.out or System.err by a logger.(‰È¼8Ç¡œ¼©-HÕ1RMAJORZ
+CODE_SMELL
+q
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Ú¢ØÍøÿÿÿÿ8î¼Ÿ¼©-Hà1RMAJORZ
+CODE_SMELL
+q
+squid:S1062"9Replace this use of System.out or System.err by a logger.(þé–¾ÿÿÿÿÿ8¡ð™¼©-HÙ1RMAJORZ
+CODE_SMELL
+‹squid:S3008"RRename this field "MAX_RED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å©÷›ùÿÿÿÿ8†áúº©-H¾0RMINORZ
+CODE_SMELL

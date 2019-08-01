@@ -1,0 +1,215 @@
+2019-05-05 14:48:12 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [0] from log4j producer .. 
+2019-05-05 14:48:12 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [0] from log4j producer .. 
+2019-05-05 14:48:13 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [1] from log4j producer .. 
+2019-05-05 14:48:13 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [1] from log4j producer .. 
+2019-05-05 14:48:14 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [2] from log4j producer .. 
+2019-05-05 14:48:14 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [2] from log4j producer .. 
+2019-05-05 14:48:15 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [3] from log4j producer .. 
+2019-05-05 14:48:15 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [3] from log4j producer .. 
+2019-05-05 14:48:16 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [4] from log4j producer .. 
+2019-05-05 14:48:16 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [4] from log4j producer .. 
+2019-05-05 14:48:17 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [5] from log4j producer .. 
+2019-05-05 14:48:17 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [5] from log4j producer .. 
+2019-05-05 14:48:18 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [6] from log4j producer .. 
+2019-05-05 14:48:18 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [6] from log4j producer .. 
+2019-05-05 14:48:19 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [7] from log4j producer .. 
+2019-05-05 14:48:19 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [7] from log4j producer .. 
+2019-05-05 14:48:20 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [8] from log4j producer .. 
+2019-05-05 14:48:20 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [8] from log4j producer .. 
+2019-05-05 14:48:21 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [9] from log4j producer .. 
+2019-05-05 14:48:21 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [9] from log4j producer .. 
+2019-05-05 14:48:22 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [10] from log4j producer .. 
+2019-05-05 14:48:22 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [10] from log4j producer .. 
+2019-05-05 14:49:23 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [0] from log4j producer .. 
+2019-05-05 14:49:23 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [0] from log4j producer .. 
+2019-05-05 14:49:24 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [1] from log4j producer .. 
+2019-05-05 14:49:24 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [1] from log4j producer .. 
+2019-05-05 14:49:25 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [2] from log4j producer .. 
+2019-05-05 14:49:25 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [2] from log4j producer .. 
+2019-05-05 14:49:26 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [3] from log4j producer .. 
+2019-05-05 14:49:26 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [3] from log4j producer .. 
+2019-05-05 14:49:27 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [4] from log4j producer .. 
+2019-05-05 14:49:27 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [4] from log4j producer .. 
+2019-05-05 14:49:28 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [5] from log4j producer .. 
+2019-05-05 14:49:28 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [5] from log4j producer .. 
+2019-05-05 14:49:29 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [6] from log4j producer .. 
+2019-05-05 14:49:29 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [6] from log4j producer .. 
+2019-05-05 14:49:30 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [7] from log4j producer .. 
+2019-05-05 14:49:30 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [7] from log4j producer .. 
+2019-05-05 14:49:31 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [8] from log4j producer .. 
+2019-05-05 14:49:31 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [8] from log4j producer .. 
+2019-05-05 14:49:32 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [9] from log4j producer .. 
+2019-05-05 14:49:32 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [9] from log4j producer .. 
+2019-05-05 14:49:33 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [10] from log4j producer .. 
+2019-05-05 14:49:33 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [10] from log4j producer .. 
+2019-05-05 14:50:33 [INFO]-[org.apache.kafka.clients.producer.ProducerConfig] ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	block.on.buffer.full = false
+	bootstrap.servers = [192.168.20.180:9092]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.fetch.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	timeout.ms = 30000
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+
+2019-05-05 14:50:33 [INFO]-[org.apache.kafka.common.utils.AppInfoParser] Kafka version : 0.10.2.1
+2019-05-05 14:50:33 [INFO]-[org.apache.kafka.common.utils.AppInfoParser] Kafka commitId : e89bffd6b2eff799
+2019-05-05 14:50:33 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [0] from log4j producer .. 
+2019-05-05 14:50:33 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [0] from log4j producer .. 
+2019-05-05 14:50:34 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [1] from log4j producer .. 
+2019-05-05 14:50:34 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [1] from log4j producer .. 
+2019-05-05 14:50:35 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [2] from log4j producer .. 
+2019-05-05 14:50:35 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [2] from log4j producer .. 
+2019-05-05 14:50:36 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [3] from log4j producer .. 
+2019-05-05 14:50:36 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [3] from log4j producer .. 
+2019-05-05 14:50:37 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [4] from log4j producer .. 
+2019-05-05 14:50:37 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [4] from log4j producer .. 
+2019-05-05 14:50:38 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [5] from log4j producer .. 
+2019-05-05 14:50:38 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [5] from log4j producer .. 
+2019-05-05 14:50:39 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [6] from log4j producer .. 
+2019-05-05 14:50:39 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [6] from log4j producer .. 
+2019-05-05 14:50:40 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [7] from log4j producer .. 
+2019-05-05 14:50:40 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [7] from log4j producer .. 
+2019-05-05 14:50:41 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [8] from log4j producer .. 
+2019-05-05 14:50:41 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [8] from log4j producer .. 
+2019-05-05 14:50:42 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [9] from log4j producer .. 
+2019-05-05 14:50:42 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [9] from log4j producer .. 
+2019-05-05 14:50:43 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [10] from log4j producer .. 
+2019-05-05 14:50:43 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [10] from log4j producer .. 
+2019-05-05 14:51:20 [INFO]-[org.apache.kafka.clients.producer.ProducerConfig] ProducerConfig values: 
+	compression.type = none
+	metric.reporters = []
+	metadata.max.age.ms = 300000
+	metadata.fetch.timeout.ms = 60000
+	acks = 1
+	batch.size = 16384
+	reconnect.backoff.ms = 10
+	bootstrap.servers = [192.168.20.180:9092]
+	receive.buffer.bytes = 32768
+	retry.backoff.ms = 100
+	buffer.memory = 33554432
+	timeout.ms = 30000
+	key.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	retries = 0
+	max.request.size = 1048576
+	block.on.buffer.full = true
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	metrics.sample.window.ms = 30000
+	send.buffer.bytes = 131072
+	max.in.flight.requests.per.connection = 5
+	metrics.num.samples = 2
+	linger.ms = 0
+	client.id = 
+
+2019-05-05 14:51:29 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [0] from log4j producer .. 
+2019-05-05 14:51:29 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [0] from log4j producer .. 
+2019-05-05 14:51:30 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [1] from log4j producer .. 
+2019-05-05 14:51:30 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [1] from log4j producer .. 
+2019-05-05 14:51:31 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [2] from log4j producer .. 
+2019-05-05 14:51:31 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [2] from log4j producer .. 
+2019-05-05 14:51:32 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [3] from log4j producer .. 
+2019-05-05 14:51:32 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [3] from log4j producer .. 
+2019-05-05 14:51:33 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [4] from log4j producer .. 
+2019-05-05 14:51:33 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [4] from log4j producer .. 
+2019-05-05 14:51:34 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [5] from log4j producer .. 
+2019-05-05 14:51:34 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [5] from log4j producer .. 
+2019-05-05 14:51:35 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [6] from log4j producer .. 
+2019-05-05 14:51:35 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [6] from log4j producer .. 
+2019-05-05 14:51:36 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [7] from log4j producer .. 
+2019-05-05 14:51:36 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [7] from log4j producer .. 
+2019-05-05 14:51:37 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [8] from log4j producer .. 
+2019-05-05 14:51:37 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [8] from log4j producer .. 
+2019-05-05 14:51:38 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [9] from log4j producer .. 
+2019-05-05 14:51:38 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [9] from log4j producer .. 
+2019-05-05 14:51:39 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [10] from log4j producer .. 
+2019-05-05 14:51:39 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [10] from log4j producer .. 
+2019-05-05 14:52:15 [INFO]-[org.apache.kafka.clients.producer.ProducerConfig] ProducerConfig values: 
+	compression.type = none
+	metric.reporters = []
+	metadata.max.age.ms = 300000
+	metadata.fetch.timeout.ms = 60000
+	acks = 1
+	batch.size = 16384
+	reconnect.backoff.ms = 10
+	bootstrap.servers = [192.168.20.180:9092]
+	receive.buffer.bytes = 32768
+	retry.backoff.ms = 100
+	buffer.memory = 33554432
+	timeout.ms = 30000
+	key.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	retries = 0
+	max.request.size = 1048576
+	block.on.buffer.full = true
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	metrics.sample.window.ms = 30000
+	send.buffer.bytes = 131072
+	max.in.flight.requests.per.connection = 5
+	metrics.num.samples = 2
+	linger.ms = 0
+	client.id = 
+
+2019-05-05 14:52:25 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [0] from log4j producer .. 
+2019-05-05 14:52:25 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [0] from log4j producer .. 
+2019-05-05 14:52:26 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [1] from log4j producer .. 
+2019-05-05 14:52:26 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [1] from log4j producer .. 
+2019-05-05 14:52:27 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [2] from log4j producer .. 
+2019-05-05 14:52:27 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [2] from log4j producer .. 
+2019-05-05 14:52:28 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [3] from log4j producer .. 
+2019-05-05 14:52:28 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [3] from log4j producer .. 
+2019-05-05 14:52:29 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [4] from log4j producer .. 
+2019-05-05 14:52:29 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [4] from log4j producer .. 
+2019-05-05 14:52:30 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [5] from log4j producer .. 
+2019-05-05 14:52:30 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [5] from log4j producer .. 
+2019-05-05 14:52:31 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [6] from log4j producer .. 
+2019-05-05 14:52:31 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [6] from log4j producer .. 
+2019-05-05 14:52:32 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [7] from log4j producer .. 
+2019-05-05 14:52:32 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [7] from log4j producer .. 
+2019-05-05 14:52:33 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [8] from log4j producer .. 
+2019-05-05 14:52:33 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [8] from log4j producer .. 
+2019-05-05 14:52:34 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [9] from log4j producer .. 
+2019-05-05 14:52:34 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [9] from log4j producer .. 
+2019-05-05 14:52:35 [INFO]-[com.demo.kafka.ProducerDemo] trace:This is Message [10] from log4j producer .. 
+2019-05-05 14:52:35 [INFO]-[com.demo.kafka.ProducerDemo] This is Message [10] from log4j producer .. 

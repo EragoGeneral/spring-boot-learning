@@ -1,0 +1,12 @@
+
+}squid:S1192"HDefine a constant instead of duplicating this literal "Integer" 4 times.(®ó·€ùÿÿÿÿHÕRCRITICALZ
+CODE_SMELL
+|squid:S1192$"GDefine a constant instead of duplicating this literal "String" 6 times.(Õì¹şÿÿÿÿHÖRCRITICALZ
+CODE_SMELL
+†squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê‘‰ÃH×RMINORZ
+CODE_SMELL
+asquid:S1444"1Make this "public static javaTypeMap" field final(Ê‘‰ÃHØRMINORZVULNERABILITY
+"squid:ClassVariableVisibilityCheck"WMake javaTypeMap a static final constant or non-public and provide accessors if needed.(Ê‘‰ÃHÙRMINORZVULNERABILITY
+lsquid:S1118":Add a private constructor to hide the implicit public one.(°½ÍùşÿÿÿÿHÚRMAJORZ
+CODE_SMELL
+Msquid:S2386"Make this member "protected".(Ê‘‰ÃHÛRMINORZVULNERABILITY

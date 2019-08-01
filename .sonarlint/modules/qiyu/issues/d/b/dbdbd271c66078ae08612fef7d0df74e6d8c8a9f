@@ -1,0 +1,13 @@
+
+{javascript:S1854T"JRemove this useless assignment to local variable "userProfileEventHandler"(¹¤ÞeHž RMAJORZ
+CODE_SMELL
+sjavascript:S1854&"ARemove this useless assignment to local variable "$cancelUserBtn"(¢òÌÍHŸ RMAJORZ
+CODE_SMELL
+xjavascript:S1854"ARemove this useless assignment to local variable "$resetUserInfo"(È¾ö­ùÿÿÿÿH  RMAJORZ
+CODE_SMELL
+zjavascript:UnusedVariable&"?Remove the declaration of the unused '$cancelUserBtn' variable.(¢òÌÍH¡ RMINORZ
+CODE_SMELL
+javascript:UnusedVariable"?Remove the declaration of the unused '$resetUserInfo' variable.(È¾ö­ùÿÿÿÿH¢ RMINORZ
+CODE_SMELL
+‚javascript:UnusedVariableT"HRemove the declaration of the unused 'userProfileEventHandler' variable.(¹¤ÞeH£ RMINORZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+
+ssquid:S1126F"AReplace this if-then-else statement by a single return statement.(ýÜ«ÙÿÿÿÿÿHÄRMINORZ
+CODE_SMELL
+lsquid:S1858E"?"toHex" returns a string, there's no need to call "toString()".(¾þòŽHÅRMINORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+Vsquid:S2629/"$Invoke method(s) only conditionally.(©‹ïİûÿÿÿÿH RMAJORZ
+CODE_SMELL
+Vsquid:S2629?"$Invoke method(s) only conditionally.(ƒ™„êıÿÿÿÿH¡RMAJORZ
+CODE_SMELL
+Qsquid:S2629f"$Invoke method(s) only conditionally.(¯à¢H¢RMAJORZ
+CODE_SMELL
+lsquid:S1118":Add a private constructor to hide the implicit public one.(¨µ•âúÿÿÿÿH£RMAJORZ
+CODE_SMELL
+usquid:S2254"=Remove use of this unsecured "getRequestedSessionId()" method(ÄÛë³şÿÿÿÿH¤RCRITICALZVULNERABILITY

@@ -1,0 +1,10 @@
+
+Å%squid:RedundantThrowsDeclarationCheckF"yRemove the declaration of thrown exception 'org.apache.shiro.authc.AuthenticationException' which is a runtime exception.(‚¸üÓşÿÿÿÿH›RMINORZ
+CODE_SMELL
+Œsquid:S2068J"U'password' detected in this expression, review this potentially hardcoded credential.(ˆù©ëúÿÿÿÿHœRBLOCKERZVULNERABILITY
+‰squid:S1488r"\Immediately return this expression instead of assigning it to the temporary variable "info".(ı•ø³HRMINORZ
+CODE_SMELL
+wsquid:S2147i"ECombine this catch with the one at line 101, which has the same body.(æİ’ÍúÿÿÿÿHRMINORZ
+CODE_SMELL
+ssquid:S3457o"AFormat specifiers should be used instead of string concatenation.(’Å¸ıÿÿÿÿHŸRMAJORZ
+CODE_SMELL

@@ -1,8 +1,0 @@
-package com.ruiyang.service;
-
-import com.ruiyang.domain.User;
-
-public interface IUserService {
-
-	public User getUserById(int id);
-}

@@ -33,3 +33,7 @@ w
 Gsrc/main/java/io/renren/modules/sys/controller/SysConfigController.java,c\3\c3f20e08b556275bfb0c914f0974c507cda898a6
 u
 Esrc/main/java/io/renren/modules/sys/controller/SysUserController.java,8\0\807b3c88244725a59ff51302ccad78488cdaf2cb
+;
+pom-war.xml,4\2\42d19d2affe2e46f4470adbc01daccc2eeeda73c
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

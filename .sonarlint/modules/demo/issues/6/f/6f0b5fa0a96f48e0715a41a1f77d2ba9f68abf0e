@@ -1,0 +1,7 @@
+
+Xsquid:S3457"%String contains no format specifiers.(É√á8…√∫ï-Hﬁ0RMAJORZ
+CODE_SMELL
+π%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ãùª8…√∫ï-Hﬂ0RMINORZ
+CODE_SMELL
+zsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ãùª8±ø∫ï-H‡0RMAJORZ
+CODE_SMELL

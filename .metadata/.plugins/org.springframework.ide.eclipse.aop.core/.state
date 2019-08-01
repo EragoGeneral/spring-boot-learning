@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="kafka"/>
 <aop-project name="multi-datasource"/>
 <aop-project name="demo2"/>
-<aop-project name="demo"/>
+<aop-project name="kafka-project"/>
+<aop-project name="admin-console"/>
 <aop-project name="web-spring-boot"/>
+<aop-project name="demo"/>
+<aop-project name="RuoYi"/>
 <aop-project name="renren-fast"/>
+<aop-project name="admin-core"/>
 </aop-reference-model>
